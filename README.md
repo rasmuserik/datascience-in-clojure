@@ -23,6 +23,8 @@ Planned learning path
 
 ## Todo
 
+- PAIP
+- project euler
 - http://work.caltech.edu/telecourse.html
 - gallager discrete stochastic processes
 - Nando de Freitas talks
