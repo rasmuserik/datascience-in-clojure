@@ -24,6 +24,7 @@ Planned learning path
 ## Todo
 
 - PAIP
+- Feller: An Introduction to Probability Theory and Its Applications
 - project euler
 - http://work.caltech.edu/telecourse.html
 - gallager discrete stochastic processes
